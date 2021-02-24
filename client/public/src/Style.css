@@ -1,0 +1,51 @@
+#backgroundLogin {
+    background-image: url('./images/img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-clip: border-box;
+    background-attachment: fixed;
+    color: rgb(87, 16, 16);
+    height: 100vh;
+}
+
+.buttonStyle {
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    background-color: rgba(36, 154, 209, 0.68);
+}
+
+.bg {
+    background-color: rgb(226, 222, 214, 0.68);
+}
+
+.myTop {
+    margin-top: 30px;
+}
+
+nav {
+    width: 900px;
+}
+
+.App {
+    text-align: center;
+}
+.icon1{
+    background-image: url('./images/01n.svg');
+}
+.icon3{
+    background-image: url('./images/03n.svg');
+}
+.icon4{
+    background-image: url('./images/04n.svg');
+}
+.icon10{
+    background-image: url('./images/10n.svg');
+}
+.picSize{
+    width: 100px;
+    height:100px;
+}
+
